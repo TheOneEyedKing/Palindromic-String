@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501784789 source:c:\not c\work\code_blocks_projects\palindromic string\main.c
+	<stdio.h>
+	<string.h>
+
